@@ -54,4 +54,4 @@ Open that URL in the browser.
 
 ## Important
 
-This dashboard displays simulated emergency responses. It does not control an actual vehicle's braking or lights.
+This dashboard displays simulated emergency responses. It does not control an actual vehicle's braking or lights
